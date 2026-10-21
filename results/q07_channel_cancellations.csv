@@ -1,0 +1,4 @@
+channel,total_orders,cancelled,returned,cancel_rate_pct
+Website,2371,119,80,5.0
+Mobile App,1420,78,43,5.5
+Marketplace,990,47,21,4.7

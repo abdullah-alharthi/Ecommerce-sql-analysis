@@ -1,0 +1,9 @@
+issue,rows_affected
+Missing email,39
+Missing city,85
+Country has stray spaces/lowercase,83
+Orphan orders (no customer),0
+Orphan items (no order),0
+Orders without items,0
+Order placed before signup,0
+Products sold below cost,0

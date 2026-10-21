@@ -1,0 +1,5 @@
+discount_tier,line_items,revenue,margin_pct,avg_units_per_line
+No discount,4696,498132.68,42.6,1.32
+10% off,1250,119304.35,36.1,1.31
+20% off,1164,102324.18,28.9,1.32
+30% off,601,45287.16,18.5,1.34

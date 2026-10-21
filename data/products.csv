@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,cost
+1,Wireless Earbuds,Electronics,264.79,121.14
+2,Smart Watch,Electronics,128.14,66.24
+3,Bluetooth Speaker,Electronics,301.18,196.67
+4,Power Bank,Electronics,359.57,171.18
+5,Webcam HD,Electronics,183.22,84.09
+6,Mechanical Keyboard,Electronics,106.99,64.37
+7,Gaming Mouse,Electronics,34.95,17.81
+8,USB-C Hub,Electronics,268.71,164.85
+9,Tablet Stand,Electronics,107.67,67.49
+10,LED Monitor,Electronics,328.54,148.48
+11,Air Fryer,Home & Kitchen,122.81,80.99
+12,Coffee Grinder,Home & Kitchen,57.64,28.63
+13,Knife Set,Home & Kitchen,144.01,79.35
+14,Blender,Home & Kitchen,22.98,11.01
+15,Storage Jars,Home & Kitchen,128.65,81.19
+16,Desk Lamp,Home & Kitchen,123.0,82.28
+17,Throw Blanket,Home & Kitchen,85.07,63.12
+18,Non-stick Pan,Home & Kitchen,62.99,38.78
+19,Electric Kettle,Home & Kitchen,126.12,80.16
+20,Wall Clock,Home & Kitchen,130.64,81.42
+21,Yoga Mat,Fitness,86.91,40.3
+22,Resistance Bands,Fitness,33.52,17.99
+23,Dumbbell Set,Fitness,16.94,8.81
+24,Jump Rope,Fitness,19.31,10.3
+25,Foam Roller,Fitness,79.2,44.31
+26,Water Bottle,Fitness,49.46,25.37
+27,Gym Bag,Fitness,37.9,27.7
+28,Fitness Tracker,Fitness,80.58,50.99
+29,Kettlebell,Fitness,27.17,18.17
+30,Ab Wheel,Fitness,26.3,14.83
+31,Face Serum,Beauty,79.22,50.86
+32,Moisturizer,Beauty,47.21,30.94
+33,Hair Dryer,Beauty,68.37,46.68
+34,Perfume,Beauty,22.95,10.55
+35,Lip Balm Set,Beauty,29.34,15.56
+36,Sunscreen SPF50,Beauty,21.61,15.84
+37,Beard Trimmer,Beauty,70.85,38.57
+38,Makeup Brush Set,Beauty,54.5,30.99
+39,Hair Oil,Beauty,73.68,43.3
+40,Face Mask Pack,Beauty,25.6,13.41
+41,SQL Basics,Books,22.72,12.01
+42,Data Storytelling,Books,23.37,16.81
+43,Python Crash Course,Books,18.18,9.38
+44,Atomic Habits,Books,34.93,21.06
+45,Deep Work,Books,9.55,4.43
+46,Statistics Made Easy,Books,10.07,6.43
+47,Business Analytics,Books,29.18,16.83
+48,Clean Code,Books,8.78,4.96
+49,The Lean Startup,Books,34.89,21.24
+50,Thinking in Systems,Books,34.19,24.21
+51,Hoodie,Apparel,13.13,8.75
+52,Running Shoes,Apparel,78.81,48.16
+53,Denim Jacket,Apparel,38.15,24.5
+54,Cotton T-Shirt,Apparel,22.93,13.31
+55,Wool Socks,Apparel,56.46,41.56
+56,Baseball Cap,Apparel,97.83,51.75
+57,Backpack,Apparel,61.06,30.75
+58,Winter Gloves,Apparel,101.44,72.14
+59,Sports Shorts,Apparel,41.25,26.47
+60,Raincoat,Apparel,71.68,35.54
