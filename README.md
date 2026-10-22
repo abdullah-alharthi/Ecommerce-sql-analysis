@@ -3,7 +3,9 @@
 A beginner-friendly SQL project where I explore two years of sales data from an online store, check the data for problems, clean it, and answer 11 business questions.
 
 **Tools:** SQL (SQLite), DB Browser for SQLite
+
 **Data:** 2,500 customers · 60 products · 4,781 orders · 8,382 order lines (Jan 2024 – Dec 2025)
+
 **Note:** The data is a synthetic practice dataset, not real company data.
 
 ## Questions I Wanted to Answer
